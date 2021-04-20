@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+.body_backgorund {
+    background-image: url("https://images.unsplash.com/photo-1593171333590-358cddf0008e?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 2px;
+    background-color: white;
+    border-style: ridge;
+}
+
+span {
+    font-size: 20px;
+}
